@@ -7,3 +7,7 @@ Ultimate thread group was tested. attached with .jmx script, snapshots of result
 
 Some important listeners were covered: Aggregate report, view results tree, assertion results and graph results
 
+For webtours jmx:
+Install microfocus webtours application on system and run the app via local ip on port on 1080
+Data driven via csv data config
+groovy script written to compare response assertions that is used with If controller
